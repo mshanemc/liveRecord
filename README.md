@@ -6,3 +6,4 @@ Some simple Process Builder knowledge is required.
 
 Demo video here https://www.youtube.com/watch?v=RBriCkS4mho
 
+Requires v40+ (Summer17).
