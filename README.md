@@ -7,7 +7,7 @@ Some simple Process Builder knowledge is required.
 Demo video here https://www.youtube.com/watch?v=RBriCkS4mho
 
 Managed Package here (pending AppExchange approval):
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04tB0000000Ln7Y
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04tB0000000Ln7i
 
 
 
